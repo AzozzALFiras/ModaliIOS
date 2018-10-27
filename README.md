@@ -7,7 +7,7 @@ Before you go to the link you can add a control message
 
 
 
-![BackgroundImage](https://a.top4top.net/p_1030rlm732.png)
+
 ![BackgroundImage](https://b.top4top.net/p_1030xdnyc3.png)
 ![BackgroundImage](https://d.top4top.net/p_1030naiyw4.png)
 ![BackgroundImage](https://e.top4top.net/p_10307c2ya5.png)
