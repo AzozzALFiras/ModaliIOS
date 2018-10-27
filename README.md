@@ -22,8 +22,7 @@ Before you go to the link you can add a control message
 
 function checker(domain) {
   var whitelist = [
-    "https://api.a1iraqi.me/messagesapple",
-    "https://api.a1iraqi.me/messagesapple"
+    "http://api.a1iraqi.me/ModaliIOS/"
   ]
 
   for (var i = 0; i < whitelist.length; i++) {
